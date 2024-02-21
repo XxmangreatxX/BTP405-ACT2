@@ -1,0 +1,4 @@
+Approach 1 (doubleL): This uses a loop to create a list of doubled numbers from 0 to n-1.
+Approach 2: This one uses a comprehension list for the same purpose.
+Approach 3 (doubleG): This one uses a function that will double the value in range n.
+

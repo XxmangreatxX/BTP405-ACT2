@@ -1,0 +1,2 @@
+From what I learned doubleG is a generator function which generates values on-the-fly without storing them in memory. 
+Which means it saves memory.
